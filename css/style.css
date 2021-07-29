@@ -41,7 +41,7 @@ a {
 }
 
 #profile_picture  {
-    width: 20%;
+    width: 30%;
     height: auto;
     margin-top: 1%;
 }
@@ -168,6 +168,10 @@ a {
     border-radius: 50%;
     background-color: #d64933;
     color: white;
+}
+
+.projects .project .section-1 .project-funding {
+    font-family: 'Ubuntu Mono', serif;
 }
 
 
